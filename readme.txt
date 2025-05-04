@@ -1,10 +1,9 @@
-  Niv Ramati  322566332 
-  Nofar Sages 212780324
+  Niv Ramati  
+  Nofar Sages 
   
   Notes :
   
   1. Mario can kill a barrel only while moving and if it is within a distance of 1 or 2.
-	link - https://mama.mta.ac.il/mod/forum/discuss.php?d=3638#p4602
   
   2.If a barrel is spawned on a '=' floor, it is automatically assigned a diff_x = 1 (movement to the right).
   
